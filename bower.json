@@ -1,0 +1,20 @@
+{
+  "name": "purescript-multiset-hashed",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-naturals": "^3.0.0",
+    "purescript-prelude": "^4.1.1",
+    "purescript-unordered-collections": "^1.8.0"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^4.0.0",
+    "purescript-quickcheck": "^5.0.0",
+    "purescript-spec": "^3.1.0",
+    "purescript-spec-quickcheck": "^3.1.0"
+  }
+}
