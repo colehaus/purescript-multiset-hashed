@@ -1,4 +1,5 @@
 {
+  "license": "AGPL-3.0-or-later",
   "name": "purescript-multiset-hashed",
   "ignore": [
     "**/.*",
@@ -16,5 +17,9 @@
     "purescript-quickcheck": "^5.0.0",
     "purescript-spec": "^3.1.0",
     "purescript-spec-quickcheck": "^3.1.0"
+  },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/colehaus/purescript-multiset-hashed.git"
   }
 }

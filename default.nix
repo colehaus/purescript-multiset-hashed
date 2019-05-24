@@ -9,7 +9,7 @@ let
 in
   extras.callPurescript2nix {
     inherit pkgs;
-    name = "purescript-social-choice";
+    name = "purescript-multiset-hashed";
     src = extras.gitignoreSource ./.;
     executable = false;
   }
